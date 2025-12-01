@@ -3,7 +3,7 @@
 	FACULTAD DE ESTUDIOS SUPERIORES -ARAGON-
 
 	Computadoras y programacion. 
-	323274603 Brandon Alexander Vega Gallardo
+	323274603 Vega Gallardo Brandon Alexander
 	
 	Distancia de Levenstein - Corrector ortografico
 	
