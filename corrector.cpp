@@ -2,8 +2,8 @@
 	UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO
 	FACULTAD DE ESTUDIOS SUPERIORES -ARAGON-
 
-	Computadoras y programacion.
-	Introducción a la ingeniería en computación
+    Proyecto ICO
+	
 	323274603 Vega Gallardo Brandon Alexander
 	
 	Distancia de Levenstein - Corrector ortografico
