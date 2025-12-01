@@ -351,6 +351,6 @@ int main() {
         }
     }
     
-    cout << "\nProgram Finished." << endl;
+    cout << "\nPrograma terminado." << endl;
     return 0;
 }
