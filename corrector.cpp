@@ -5,7 +5,7 @@
 	Computadoras y programacion. 
 	323274603 Brandon Alexander Vega Gallardo
 	
-	Corrector Ortografico - Distancia de Levenstein
+	Distancia de Levenstein - Corrector ortografico
 	
 ******************************************************************************************************************/
 
