@@ -347,7 +347,7 @@ int main() {
                          << " [" << weights[i] << "]" << endl;
                 }
             } else {
-                cout << "No hay sugerencias." << endl;
+                cout << "Sin sugerencias." << endl;
             }
         }
     }
