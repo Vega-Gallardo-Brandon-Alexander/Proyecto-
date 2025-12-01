@@ -2,7 +2,7 @@
 	UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO
 	FACULTAD DE ESTUDIOS SUPERIORES -ARAGON-
 
-    Proyecto ICO
+    Proyecto ICO y Peñaloza
 	
 	323274603 Vega Gallardo Brandon Alexander
 	
